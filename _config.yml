@@ -1,0 +1,18 @@
+title: Eric Nguyen
+description: >-
+  Blog cá nhân của Eric Nguyen — chia sẻ về web, công nghệ
+  và các dự án side-project.
+url: "https://ericnguyen1206.github.io"
+lang: vi
+timezone: Asia/Ho_Chi_Minh
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author: Eric Nguyen
+show_excerpts: true
+
+# URL bài viết dạng gọn: /ten-bai/ thay vì /2026/08/23/ten-bai.html
+permalink: /:title/
