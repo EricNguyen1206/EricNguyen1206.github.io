@@ -59,5 +59,3 @@ FrontEnd Developer — xây dựng giao diện web thích ứng mọi thiết b�
 - GitHub: [@EricNguyen1206](https://github.com/EricNguyen1206)
 - LinkedIn: [Tín Nguyễn Trọng](https://www.linkedin.com/in/t%C3%ADn-nguy%E1%BB%85n-tr%E1%BB%8Dng-71792b1b3/)
 - Facebook: [eric.nguyen.961556](https://www.facebook.com/eric.nguyen.961556)
-
-Trang portfolio cũ (giao diện swiper): [old-portfolio.html](/old-portfolio.html)

@@ -43,7 +43,6 @@ Hình ảnh bỏ vào `assets/img/`, chèn bằng `![mô tả](/assets/img/ten-a
 - `about.md` — trang "Giới thiệu" (hiện trên menu)
 - `index.md` — trang chủ (intro + danh sách bài, phân trang 5 bài)
 - `_config.yml` — cấu hình (tên blog, theme, plugin)
-- `old-portfolio.html` — trang portfolio cũ, truy cập tại `/old-portfolio.html`
 - RSS: `/feed.xml`
 
 ## Xem trước ở local (tùy chọn, không bắt buộc)
