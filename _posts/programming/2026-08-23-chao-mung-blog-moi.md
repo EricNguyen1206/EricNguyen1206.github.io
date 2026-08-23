@@ -2,7 +2,7 @@
 layout: post
 title: "Chào mừng blog mới"
 date: 2026-08-23 10:00:00 +0700
-categories: general
+categories: programming
 ---
 
 Blog vừa chuyển sang Jekyll — từ giờ viết bài chỉ cần tạo một file Markdown
