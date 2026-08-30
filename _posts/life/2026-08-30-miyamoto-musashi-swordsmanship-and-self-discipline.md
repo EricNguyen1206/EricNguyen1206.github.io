@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Đạo Kiếm Thuật Của Miyamoto Musashi: Nghệ Thuật Tự Chủ Và Sự Tập Trung Đơn Nhất"
-date: 2026-08-30 15:00:00 +0700
+date: 2026-08-30 11:30:00 +0700
 categories: life
 ---
 
