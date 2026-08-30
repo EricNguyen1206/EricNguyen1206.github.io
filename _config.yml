@@ -20,3 +20,13 @@ show_excerpts: true
 
 # URL bài viết dạng gọn: /ten-bai/ thay vì /2026/08/23/ten-bai.html
 permalink: /:title/
+
+# Loại trừ các file/thư mục không build thành trang web public
+exclude:
+  - _workspace/
+  - _drafts/
+  - README.md
+  - .agents/
+  - Gemfile
+  - Gemfile.lock
+
