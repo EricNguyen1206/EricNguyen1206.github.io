@@ -11,6 +11,12 @@ Khi đối diện với sự xao nhãng của thời đại, người ta thườ
 
 <!-- more -->
 
+**🎧 Nghe bài viết (~8 phút):**
+
+<audio controls preload="metadata" style="width:100%;">
+  <source src="/assets/audio/2026-08-30-miyamoto-musashi.m4a" type="audio/mp4" />
+</audio>
+
 ---
 
 ## 1. Miyamoto Musashi: Kiếm Thánh Và Kẻ Độc Hành
@@ -21,7 +27,7 @@ Thế nhưng, nếu chỉ xem Musashi là một đấu sĩ bất bại, chúng t
 
 Đằng sau lưỡi kiếm sắc lạnh ấy là một con người dành trọn cuộc đời để **tu luyện nội tâm**:
 - Ông cự tuyệt địa vị xã hội, bổng lộc triều đình và lối sống xa hoa để chọn một đời sống tối giản, khổ hạnh.
-- Ông là một nghệ sĩ đích thực: vẽ tranh thủy mặc, viết thư pháp, điêu khắc tượng Phật.
+- Ông còn là một nghệ sĩ đích thực: vẽ tranh thủy mặc, viết thư pháp, điêu khắc tượng Phật.
 - Trước khi qua đời vào năm 1645 trong hang núi Reigando, ông để lại hai tác phẩm bất hủ:
   - **Ngũ Luân Thư (*The Book of Five Rings*)**: Cuốn sách kinh điển về chiến lược và tâm pháp.
   - **Độc Hành Đạo (*Dokkodo*)**: 21 nguyên tắc sống kỷ luật, buông bỏ mọi dục vọng và dựa hoàn toàn vào chính mình.
@@ -105,7 +111,7 @@ Trận đấu huyền thoại giữa Musashi và đối thủ lớn nhất đờ
   2. Ông **không dùng kiếm sắt thông thường**, mà trên đường chèo thuyền ra đảo, ông đã dùng một mái chèo gỗ đẽo thành thanh kiếm dài hơn kiếm của đối phương một chút để hóa giải lợi thế của đối thủ.
   3. Ông chọn vị trí **đứng quay lưng về phía mặt trời**, khiến ánh sáng làm chói mắt Kojiro trong khoảnh khắc quyết định.
 
-**Bài học rút ra:** Kẻ bám víu vào công cụ hay giáo điều cứng nhắc sẽ là kẻ thất bại. Người chiến thắng là người thấu hiểu điểm mạnh, điểm yếu của mình và đối phương, biết vận dụng kỹ năng, tư duy linh hoạt biến đổi theo hoàn cảnh để đạt được mục tiêu cuối cùng.
+**Bài học rút ra:** Kẻ bám víu vào công cụ hay giáo điều cứng nhắc sẽ là kẻ thất bại. Người chiến thắng là người thấu hiểu điểm mạnh, điểm yếu của mình và đối phương, biết vận dụng chuyên môn, tư duy linh hoạt biến đổi theo hoàn cảnh để đạt được mục tiêu cuối cùng.
 
 ---
 
